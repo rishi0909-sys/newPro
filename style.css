@@ -446,6 +446,7 @@ nav button {
     gap: 20px;
   }
   .center {
+    padding: 20px;
     overflow-y: hidden;
     height: 24vh;
     width: 88vw;
@@ -510,12 +511,8 @@ nav button {
     padding: 18px 18px;
   }
   .section1bottom img {
-    height:19px;
-    gap: 20px;
-    height:14px;
-    gap: 12px;
-    height:19px;
-    gap: 20px;
+    height:11px;
+    gap: 15px;
     filter: grayscale(100%);
   }
   #section2 {
@@ -552,11 +549,9 @@ nav button {
   }
   .container {
     height: 96vh;
-    /* width:90%; */
     padding: 20px 85px;
     display: flex;
     justify-content: space-evenly;
-    /* border: 2px solid black; */
     flex-wrap: wrap;
   }
   .elem {
