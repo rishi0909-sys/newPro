@@ -446,10 +446,10 @@ nav button {
     gap: 20px;
   }
   .center {
-    padding: 20px;
+    padding: 23px;
     overflow-y: hidden;
-    height: 24vh;
-    width: 88vw;
+    height: 27vh;
+    width: 86vw;
     display: flex;
     justify-content: space-evenly;
   }
