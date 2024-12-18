@@ -383,7 +383,7 @@ nav button {
   font-size:24px;
   color: #9AE975;
 }
-@media (max-width:600px){
+@media (max-width:500px){
   *{
     overflow-x: hidden;
     margin: 0;
@@ -446,7 +446,6 @@ nav button {
     gap: 20px;
   }
   .center {
-    background-color:red;
     overflow-y: hidden;
     height: 24vh;
     width: 88vw;
