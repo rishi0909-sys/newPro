@@ -9,7 +9,6 @@ body {
   width: 100vw;
 }
 #section1 {
-
   height: 118vh;
   width: 102vw;
   position: relative;
@@ -59,7 +58,7 @@ nav button {
   gap: 50px;
 }
 .center {
-  min-height: 30vh;
+  /* min-height: 30vh; */
   padding: 30px;
   height: 63vh;
   width: 100vw;
@@ -387,6 +386,11 @@ nav button {
   font-size:24px;
   color: #9AE975;
 }
+
+
+
+
+
 @media (max-width:570px){
   *{
     overflow-x: hidden;
